@@ -1,0 +1,48 @@
+.scoreboard {
+  grid-column: 2;
+  grid-row: 1;
+  color: var(--background-color);
+  background-color: var(--text-color);
+  border-radius: 10px;
+  box-shadow: 2px 2px 2px var(--primary-color-dark);
+  padding: 20px;
+  margin: 20px;
+  width: 300px;
+  justify-self: end;
+}
+
+.winnerDialog {
+  width: 400px;
+  height: 150px;
+  padding: 20px;
+  text-align: center;
+  border: none;
+  color: var(--background-color);
+  background-color: var(--primary-color);
+  box-shadow: 2px 2px 2px var(--primary-color-light);
+  border-radius: 10px;
+}
+
+.winnerDialog button {
+  font-family: inherit;
+  font-size: 1.2rem;
+  font-weight: 700;
+  padding: 10px 20px;
+  margin: 20px;
+  outline: none;
+  border: none;
+  border-radius: 10px;
+  color: var(--background-color);
+  background-color: var(--text-color);
+}
+
+.winnerDialog button:hover,
+.winnerDialog button:active {
+  color: var(--text-color);
+  background-color: var(--background-color);
+}
+
+.winnerDialog::backdrop {
+  background-color: var(--primary-color-dark);
+  opacity: 0.75;
+}
