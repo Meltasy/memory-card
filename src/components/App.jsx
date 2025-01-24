@@ -53,7 +53,9 @@ function App() {
     <main>
       <header>
         <h1>Memory Card</h1>
-        <h2>How many can you remember?</h2>
+        <h2>How many cats can you remember?</h2>
+        <h3>There are 24 cats and the goal of the game is to click on every cat once.
+          You can try to remember the photo, the breed, or both! Do you have a good memory?</h3>
       </header>
       <section className='scoreboard'>
         <Scoreboard

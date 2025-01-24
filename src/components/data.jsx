@@ -1,109 +1,97 @@
 export const catsList = [{
-  'id': '9x1zk_Qdr',
+  'id': 'p6x60nX6U',
   'name': 'Abyssinian',
-  'url': 'https://cdn2.thecatapi.com/images/9x1zk_Qdr.jpg',
+  'url': 'https://cdn2.thecatapi.com/images/p6x60nX6U.jpg',
 }, {
-  'id': 'ji-5E0VwY',
+  'id': 'vJB8rwfdX',
   'name': 'American Curl',
-  'url': 'https://cdn2.thecatapi.com/images/ji-5E0VwY.jpg',
+  'url': 'https://cdn2.thecatapi.com/images/vJB8rwfdX.jpg',
 }, {
-  'id': 'xNuSF5YWY',
+  'id': 'NwMUoJYmT',
+  'name': 'Bengal',
+  'url': 'https://cdn2.thecatapi.com/images/NwMUoJYmT.jpg',
+}, {
+  'id': 'N8bl5RjPG',
   'name': 'British Shorthair',
-  'url': 'https://cdn2.thecatapi.com/images/xNuSF5YWY.jpg',
+  'url': 'https://cdn2.thecatapi.com/images/N8bl5RjPG.jpg',
 }, {
-  'id': 'yqcbOxkWK',
-  'name': 'Cornish Rex',
-  'url': 'https://cdn2.thecatapi.com/images/yqcbOxkWK.jpg',
-}, {
-  'id': 'udJaUVCHZ',
-  'name': 'Devon Rex',
-  'url': 'https://cdn2.thecatapi.com/images/udJaUVCHZ.jpg',
+  'id': 'E4j4aBDx9',
+  'name': 'Chantilly-Tiffany',
+  'url': 'https://cdn2.thecatapi.com/images/E4j4aBDx9.jpg',
 }, {
   'id': 'ZaZwqFsgj',
   'name': 'Chausie',
   'url': 'https://cdn2.thecatapi.com/images/ZaZwqFsgj.jpg',
 }, {
-  'id': 'JqnhXlI_b',
-  'name': 'Norwegian Forest Cat',
-  'url': 'https://cdn2.thecatapi.com/images/JqnhXlI_b.jpg',
+  'id': 'hV2A_LW2n',
+  'name': 'Cheetoh',
+  'url': 'https://cdn2.thecatapi.com/images/hV2A_LW2n.jpg',
 }, {
-  'id': 'UYLI_E-SZ',
-  'name': 'Ragdoll',
-  'url': 'https://cdn2.thecatapi.com/images/UYLI_E-SZ.jpg',
-}, {
-  'id': 'yKXeUMNZ8',
-  'name': 'Savannah',
-  'url': 'https://cdn2.thecatapi.com/images/yKXeUMNZ8.jpg',
-}, {
-  'id': 'wiFvbArkQ',
-  'name': 'Siberian',
-  'url': 'https://cdn2.thecatapi.com/images/wiFvbArkQ.jpg',
-}, {
-  'id': 'kkBIQnncT',
-  'name': 'Snowshoe',
-  'url': 'https://cdn2.thecatapi.com/images/kkBIQnncT.jpg',
-}, {
-  'id': 'rPTbM2Tvt',
-  'name': 'Sphynx',
-  'url': 'https://cdn2.thecatapi.com/images/rPTbM2Tvt.png',
-}, {
-  'id': 'Oaoo1ky3A',
-  'name': 'Bambino',
-  'url': 'https://cdn2.thecatapi.com/images/Oaoo1ky3A.jpg',
-}, {
-  'id': '0Vz3XgaPM',
-  'name': 'Selkirk Rex',
-  'url': 'https://cdn2.thecatapi.com/images/0Vz3XgaPM.jpg',
-}, {
-  'id': 'ciYIfAoze',
-  'name': 'Tonkinese',
-  'url': 'https://cdn2.thecatapi.com/images/ciYIfAoze.jpg',
-}, {
-  'id': 'udZiLDG_E',
-  'name': 'Bengal',
-  'url': 'https://cdn2.thecatapi.com/images/udZiLDG_E.jpg',
+  'id': 'gMjW5RYB0',
+  'name': 'Cornish Rex',
+  'url': 'https://cdn2.thecatapi.com/images/gMjW5RYB0.jpg',
 }, {
   'id': 'GQ61BDToD',
   'name': 'Cymric',
   'url': 'https://cdn2.thecatapi.com/images/GQ61BDToD.jpg',
 }, {
+  'id': 'KrDYENsA3',
+  'name': 'Dragon Li',
+  'url': 'https://cdn2.thecatapi.com/images/KrDYENsA3.jpg',
+}, {
   'id': 'FCNqMC83P',
   'name': 'Exotic Shorthair',
   'url': 'https://cdn2.thecatapi.com/images/FCNqMC83P.jpg',
 }, {
-  'id': 'wWZPyq5Jm',
+  'id': 'L6d7rFyt1',
   'name': 'Havana Brown',
-  'url': 'https://cdn2.thecatapi.com/images/wWZPyq5Jm.jpg',
+  'url': 'https://cdn2.thecatapi.com/images/L6d7rFyt1.jpg',
 }, {
-  'id': 'mNOdlAkXR',
-  'name': 'Cheetoh',
-  'url': 'https://cdn2.thecatapi.com/images/mNOdlAkXR.jpg',
+  'id': 'me56sI74P',
+  'name': 'Himalayan',
+  'url': 'https://cdn2.thecatapi.com/images/me56sI74P.jpg',
 }, {
-  'id': 'OGTWqNNOt',
+  'id': 'PoZIVJ124',
+  'name': 'Maine Coon',
+  'url': 'https://cdn2.thecatapi.com/images/PoZIVJ124.jpg',
+}, {
+  'id': 'GwRBXx7-w',
   'name': 'Nebelung',
-  'url': 'https://cdn2.thecatapi.com/images/OGTWqNNOt.jpg',
+  'url': 'https://cdn2.thecatapi.com/images/GwRBXx7-w.jpg',
+}, {
+  'id': 'JqnhXlI_b',
+  'name': 'Norwegian Forest Cat',
+  'url': 'https://cdn2.thecatapi.com/images/JqnhXlI_b.jpg',
 }, {
   'id': '9FEol9vDh',
   'name': 'Oriental',
   'url': 'https://cdn2.thecatapi.com/images/9FEol9vDh.jpg',
 }, {
-  'id': 'kjKxmn3Ob',
-  'name': 'Siamese',
-  'url': 'https://cdn2.thecatapi.com/images/kjKxmn3Ob.jpg',
-}, {
-  'id': 'wUxNIew6I',
-  'name': 'Somali',
-  'url': 'https://cdn2.thecatapi.com/images/wUxNIew6I.jpg',
-}, {
-  'id': 'INXwfT_cp',
-  'name': 'Chantilly-Tiffany',
-  'url': 'https://cdn2.thecatapi.com/images/INXwfT_cp.jpg',
-}, {
-  'id': 'OCoeP14wW',
-  'name': 'Maine Coon',
-  'url': 'https://cdn2.thecatapi.com/images/OCoeP14wW.jpg',
+  'id': 'UYLI_E-SZ',
+  'name': 'Ragdoll',
+  'url': 'https://cdn2.thecatapi.com/images/UYLI_E-SZ.jpg',
 }, {
   'id': 'tHKLZkKZG',
   'name': 'Russian Blue',
   'url': 'https://cdn2.thecatapi.com/images/tHKLZkKZG.jpg',
+}, {
+  'id': 'SAaCmtjAn',
+  'name': 'Savannah',
+  'url': 'https://cdn2.thecatapi.com/images/SAaCmtjAn.jpg',
+}, {
+  'id': 'IOqJ6RK7L',
+  'name': 'Scottish Fold',
+  'url': 'https://cdn2.thecatapi.com/images/IOqJ6RK7L.jpg',
+}, {
+  'id': 'kjKxmn3Ob',
+  'name': 'Siamese',
+  'url': 'https://cdn2.thecatapi.com/images/kjKxmn3Ob.jpg',
+}, {
+  'id': 'qLPz9prjF',
+  'name': 'Siberian',
+  'url': 'https://cdn2.thecatapi.com/images/qLPz9prjF.jpg',
+}, {
+  'id': 'klJJYDl2B',
+  'name': 'Somali',
+  'url': 'https://cdn2.thecatapi.com/images/klJJYDl2B.jpg',
 }]
